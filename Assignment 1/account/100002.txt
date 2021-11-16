@@ -1,0 +1,12 @@
+First Name|Michael Ryo
+Last Name|Kandiawan
+Address|Coward
+Phone|0452197718
+Email|ryo.kandiawan@ymail.com
+AccountNo |100002
+Balance |911.0
+21.09.2021|Deposit|1000|2400|
+21.09.2021|Withdraw|2000|400|
+21.09.2021|Deposit|500|900|
+28.09.2021|Deposit|5.5|905.5|
+28.09.2021|Deposit|5.5|911.0|

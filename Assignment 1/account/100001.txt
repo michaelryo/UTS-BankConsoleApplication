@@ -1,0 +1,10 @@
+First Name|KECAP
+Last Name|ABC
+Address|Indo
+Phone|0812312141
+Email|ABC@yahoo.com
+AccountNo |100001
+Balance |1800
+21.09.2021|Deposit|1000|1000|
+28.09.2021|Deposit|1000|2000|
+28.09.2021|Withdraw|200|1800|
